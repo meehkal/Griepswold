@@ -4,7 +4,7 @@ Inhaltsverzeichnis
 3.
 4.
 
-#Gruppenmitglieder:#
+# Gruppenmitglieder:
 - Selina 
 - Annett
 - Laetizia

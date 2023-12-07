@@ -16,6 +16,8 @@
 
 ## Beschreibung von unseres exemplarischen Projekts
 
+Wie kommen unterschiedliche Aussprachen von Begriffen zustande und welche Faktoren spielen dabei eine entscheidende Rolle? Mit dieser und vielen weiteren Fragen befasst sich unser folgendes exemplarisches Projekt. 
+
 Unser exemplarsiches Projekt beschäftigt sich mit der unterschiedlichen Aussprache von Begriffen im Hinblick auf den Geburtsort, den Entwicklungsort, das Alter und den Dialekt. Anhand der Begriffe "China" und "Chemie" wollen wir untersuchen wie diese Kriterien Einfluss auf die Aussprache nehmen. 
 
 

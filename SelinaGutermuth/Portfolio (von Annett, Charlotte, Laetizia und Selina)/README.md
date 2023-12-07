@@ -1,15 +1,15 @@
-## Projektdokumentation 
-# Inhaltsverzeichnis 
+# Projektdokumentation 
+## Inhaltsverzeichnis 
 1.  
 2.
 3.
 4.
 
-# Gruppenmitglieder:
+## Gruppenmitglieder:
 - Selina 
 - Annett
 - Laetizia
 - Charlotte 
 
-# Beschreibung von unserem exemplarischen Projekt 
+## Beschreibung von unserem exemplarischen Projekt 
 

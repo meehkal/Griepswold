@@ -9,10 +9,10 @@
 4.  READ.me
 
 ## Gruppenmitglieder:
-- Selina 
-- Annett
-- Laetizia
-- Charlotte 
+- Selina (SelinaGutermuth)
+- Annett (annettm21)
+- Laetizia (laetiziaschubert)
+- Charlotte (CharlotteSchnoy) 
 
-## Beschreibung von unserem exemplarischen Projekt 
+## Beschreibung von unseres exemplarischen Projekts
 

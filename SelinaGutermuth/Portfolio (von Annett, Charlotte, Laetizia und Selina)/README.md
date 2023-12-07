@@ -1,5 +1,5 @@
-Inhaltsverzeichnis 
-1. 
+# Inhaltsverzeichnis 
+1.  
 2.
 3.
 4.
@@ -9,3 +9,5 @@ Inhaltsverzeichnis
 - Annett
 - Laetizia
 - Charlotte 
+
+# Beschreibung von unserem exemplarischen Projekt 

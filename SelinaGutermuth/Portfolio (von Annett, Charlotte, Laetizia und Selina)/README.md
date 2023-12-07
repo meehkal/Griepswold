@@ -19,9 +19,8 @@
 Unser exemplarsiches Projekt beschäftigt sich mit der unterschiedlichen Aussprache von Begriffen im Hinblick auf den Geburtsort, den Entwicklungsort, das Alter und den Dialekt. Anhand der Begriffe "China" und "Chemie" wollen wir untersuchen wie diese Kriterien Einfluss auf die Aussprache nehmen. 
 
 
-Wir haben gemeinschaftlich den Fragebogen entworfen und die Einverständniserklärung fürs Interview. Daraufhin hat jeder von uns Personen aus seinem persönlichen Umfeld befragt. Die Audiodateien der Interviews haben wir in Elan zusammengetragen und transkribiert. Die Ergebnisse haben wir gemeinschaftlich in einer Tabelle zusammengetragen. 
-Jede von uns hat Literatur herausgesucht, welche wir dann zusammen in die Literaturdatenbank eingetragen haben. 
-Die Tabelle haben wir zusammen in Exel erstellt und als CSV-(Macintosh)-Datei hochgeladen. 
+Vorgehen: 
+Zuerst haben wir gemeinschaftlich den Fragebogen sowie die Einverständniserklärung fürs Interview entworfen. Daraufhin hat jede von uns Personen aus seinem persönlichen Umfeld befragt und diese Datein aufgenommen. Die Audiodateien der Interviews haben wir in Elan zusammengetragen und transkribiert. Die Ergebnisse haben wir gemeinschaftlich in einer Tabelle zusammengetragen. Jede von uns hat Literatur herausgesucht, welche wir dann zusammen in die Literaturdatenbank eingetragen haben. Die Tabelle haben wir zusammen in Exel erstellt und als CSV-(Macintosh)-Datei hochgeladen. 
 
 
 Alle Aufgaben, bis auf die einzelnen Interviews wurden zusammen im Team bearbeitet. 

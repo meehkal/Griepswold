@@ -24,7 +24,7 @@ Unser exemplarsiches Projekt beschäftigt sich mit der unterschiedlichen Ausspra
 
 
 Vorgehen: 
-Zuerst haben wir gemeinschaftlich den Fragebogen sowie die Einverständniserklärung für das Interview entworfen. Daraufhin hat jede von uns Personen aus dem persönlichen Umfeld befragt und diese Datein aufgenommen. Die Audiodateien der Interviews haben wir in Elan zusammengetragen und transkribiert. Danach haben wir die Ergebnisse gemeinschaftlich in einer Tabelle gesammelt. Jede von uns hat Literatur herausgesucht, welche wir dann gemeinsam in die Literaturdatenbank eingetragen haben. Die Tabelle haben wir zusammen in Exel erstellt und als CSV-(Macintosh)-Datei hochgeladen. 
+Zuerst haben wir gemeinschaftlich den Fragebogen sowie die Einverständniserklärung für das Interview entworfen. Daraufhin hat jede von uns Personen aus dem persönlichen Umfeld befragt und diese Datein aufgenommen. Die Audiodateien der Interviews haben wir in **ELAN** zusammengetragen und transkribiert. Danach haben wir die Ergebnisse gemeinschaftlich in einer Tabelle gesammelt. Jede von uns hat Literatur herausgesucht, welche wir dann gemeinsam in die Literaturdatenbank eingetragen haben. Die Tabelle haben wir zusammen in dem Programm **Exel** erstellt und als **CSV-(Macintosh)-Datei** hochgeladen. 
 
 
 Alle Aufgaben, bis auf die einzelnen Interviews wurden zusammen im Team bearbeitet. 

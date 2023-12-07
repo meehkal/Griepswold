@@ -1,6 +1,8 @@
 # Projektdokumentation 
 
 ## Fragestellung 
+Welche Kriterien spielen im Hinblick auf die Aussprache von Begriffen wie beispielsweise "China" und "Chemie" eine Rolle?
+Wer sagt "Schemie" und wer "Kemie"? Liegt diese verschiedene Aussprache vor allem am Alter oder spielt der Geburtsort eine größe Rolle?
 
 ## Inhaltsverzeichnis 
 1.  Elan-Datein (Elan Vorlage, Interviewleitfaden, Einverständniserklärung, Interviews)

@@ -7,4 +7,5 @@
 
 # Exemplarsiches Projekt 
 
-+ Ordner: SelinaGutermuth 
++ Ordner: SelinaGutermuth
++ mit mündlicher Prüfung 

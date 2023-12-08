@@ -12,7 +12,7 @@
 3. Tabellen
 - 3.1 Studie: Babysprache hilft beim Sprechen lernen
 - 3.2
-5. Literaturnachweise
+5. Literaturnachweise  
 
 
 ### 1.1 Forschungsfrage

@@ -20,3 +20,6 @@ Das Portfolio behandelt die Forschungsfrage "In welchen Stadien findet die Sprac
 
 ### 1.2 Gruppenmitglieder
 Das Portfolio wurde zusammen mit Luisa Zint (luisazint) erstellt. Wir haben uns beide immer zusammen getroffen, um die Forschungsergebnisse zu sammeln und das Portfolio zu gestallten. 
+
+### 1.3 Informationen zur Forschungsarbeit
+In unserer Forschungsarbeit wollen wir die Sprachentwicklung von Kindern erforschen. Dazu würden wir mehrere Kinder vom Säuglingsalter bis zur Vollendung des vierten Lebensjahres mit Video und Tonbandaufnahmen begleiten und beobachten. Exemplarisch hierfür haben wir eine ELAN-Datei (ELAN Sprachstadie Beispiele.eaf) ausgewählt. Diese ELAN-Datei haben wir auf die Phasen der Sprachentwicklung von Kindern untersucht.

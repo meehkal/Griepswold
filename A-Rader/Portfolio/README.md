@@ -1,7 +1,7 @@
 ## Portfolio
 
 ### Inhaltsverzeichnis
-1. READMe.md
+1. 
 - 1.1 Forschungsfrage
 - 1.2 Gruppenmitglieder
 - 1.3 Forschungsarbeit

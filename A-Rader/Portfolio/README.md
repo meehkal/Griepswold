@@ -10,7 +10,8 @@
 - 2.1 ELAN Sprachstadien Beispiele 
 3. Tabellen
 - 3.1 Studie: Babysprache hilft beim Sprechen lernen
-4. Literaturnachweise  
+4. Einverständniserklärung der Eltern 
+5. Literaturnachweise  
 
 
 ### 1.1 Forschungsfrage

@@ -8,4 +8,5 @@
 # Exemplarsiches Projekt 
 
 + Ordner: SelinaGutermuth
-+ mit mündlicher Prüfung 
++ mit mündlicher Prüfung
++ https://github.com/meehkal/Griepswold/tree/33b1cfa1f1f568a79e046de19c2f5dfad58c1ef5/SelinaGutermuth/Portfolio%20(von%20Annett%2C%20Charlotte%2C%20Laetizia%20und%20Selina)

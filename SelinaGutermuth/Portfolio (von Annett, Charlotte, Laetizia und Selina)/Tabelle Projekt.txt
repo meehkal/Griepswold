@@ -1,0 +1,7 @@
+Person;Geburtsort;Entwicklungsort;Alter;Dialekt;"Ausprache von ""ch"""
+Person 1;Berlin;Berlin;20;keiner;[ҫ]
+Person 2;Bayern;Bayern;22;Oberpfaelzer;/k/
+Person 3;Eberswalde;Eberswalde;66;keiner;/sch/
+Person 4;Eberswalde-Finow;Eberswalde-Finow;47;Finower-Kanaldeutsch/Berlinerisch;[ҫ]
+Person 5;Cottbus;Spreewald;21;Niederlausitzer Mundart;/sch/
+Person 6;Berlin;Berlin;20;keiner;[ҫ]

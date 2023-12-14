@@ -10,7 +10,7 @@ Wer sagt "Schemie" und wer "Kemie"? Liegt diese verschiedene Aussprache vor alle
 3.  Tabellenauswertung 
 4.  READ.me
 
-## Gruppenmitglieder:
+## Gruppenmitglieder
 - Selina (SelinaGutermuth)
 - Annett (annettm21)
 - Laetizia (laetiziaschubert)

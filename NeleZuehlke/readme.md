@@ -2,7 +2,7 @@ Projektdokumentation von Nele Zühlke
 Thema:
 
 
-CORPUS DES PROJEKTS:
+KORPUS DES PROJEKTS:
 Hausaufgabe als Übung 
 Literaturdatenbank (DeutscheLingustik.bib)
 Transkription einer Audiodatei mit ELAN

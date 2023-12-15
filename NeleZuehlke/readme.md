@@ -1,12 +1,20 @@
 Projektdokumentation von Nele Zühlke
-Thema:
+Thema: Niederdeutsch im Vergleich zum heutigen Standartdeutsch anhand eines Beispiels
+
 
 
 KORPUS DES PROJEKTS:
-Hausaufgabe als Übung 
+
+Hausaufgaben
+
+Projekt
+
 Literaturdatenbank (DeutscheLingustik.bib)
-Transkription einer Audiodatei mit ELAN
-readme Datei
+
+ELAN-Audiodatei
+
+Beschreibung
 
 
 BESCHREIBUNG DES PROJEKTS:
+eine ausführliche Beschreibung befindet sich im Ordner "Beschreibung"

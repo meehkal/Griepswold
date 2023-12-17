@@ -17,7 +17,7 @@ Isabelle (UnbekanntEARTH)
 ## Projektbeschreibung
 
 Mein Projekt beschäftigt sich mit dem historischen Begriffswandel des mittelhochdeutschen Wortes "êre".
-Dabei habe ich in unterschiedlichen Wörterbüchern und Büchern der Mediävistik die Übersetzung des Äquivalenzes "Ehre" sowie deren Begriffserklärungen untersucht und nach Zeitstufe (ahd./mhd./nhd.) unterschieden.
+Dabei habe ich in unterschiedlichen Wörterbüchern und Büchern der Mediävistik die Übersetzung des Äquivalenzes "Ehre" sowie deren Begriffserklärungen untersucht und nach Zeitstufen (ahd./mhd./nhd.) unterschieden.
 
 
 Vorgehen: 

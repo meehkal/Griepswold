@@ -22,5 +22,5 @@ Dabei habe ich in unterschiedlichen Wörterbüchern und Büchern der Mediävisti
 Vorgehen:
 1. Grobe Recherche mit Anlegegung einer Literaturdatenbank (JabRef). Durch historischen Hintergrund werden auditive Aufnahmen als Material ausgeschlossen.
 2. Durchsuchen und Sortieren des gegebenen Materials durch elektronische Hilfsmittel bzw. manuell mit genauerer Angabe der betroffenen Seitenzahl. Ergebnisse werden unter der Kommentarfunktion der Literaturdatenbank eingetragen.
-3. Strukturierte Datenbanken werden in Form von Tabellen, Stammbäumen und/oder Zahlenstahl erstellt und in gegebener Ordnerstruktur abgespeichert. Hierfür nutze ich LibreOffice Calc
+3. Strukturierte Datenbanken werden in Form von Tabellen, Stammbäumen und/oder Zahlenstahl erstellt und in gegebener Ordnerstruktur abgespeichert. Hierfür nutze ich LibreOffice Calc und wandle schlussendlich die .odt-Datei ins .csv-Format um.
 4. 

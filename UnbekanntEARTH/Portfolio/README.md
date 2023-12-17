@@ -4,17 +4,15 @@
 Historische Semantik am Beispiel des mhd. Begriffs "êre"
 
 ## Fragestellung
-Welche Kriterien spielen im Hinblick auf die Aussprache von Begriffen wie beispielsweise "China" und "Chemie" eine Rolle?
-Wer sagt "Schemie" und wer "Kemie"? Liegt diese verschiedene Aussprache vor allem am Alter oder spielt der Geburtsort eine größe Rolle?
+In wie weit hat sich das Verständnis des Begriffs historisch verändert und gibt bzw. gab es Synonyme mit ähnlichen Bedeutungen?
 
 ## Inhaltsverzeichnis 
-1.  Elan-Datein (Elan Vorlage, Interviewleitfaden, Einverständniserklärung, Interviews)
-2.  Literaturdatenbank 
-3.  Tabellenauswertung 
-4.  READ.me
+1.  Literaturdatenbank 
+2.  Tabellenauswertung 
+3.  READ.me
 
 ## Gruppenmitglied
-- Isabelle (UnbekanntEARTH)
+Isabelle (UnbekanntEARTH)
 
 ## Projektbeschreibung
 

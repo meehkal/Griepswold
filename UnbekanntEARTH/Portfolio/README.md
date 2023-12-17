@@ -20,7 +20,7 @@ Mein Projekt beschäftigt sich mit dem historischen Begriffswandel des mittelhoc
 Dabei habe ich in unterschiedlichen Wörterbüchern und Büchern der Mediävistik die Übersetzung des Äquivalenzes "Ehre" sowie deren Begriffserklärungen untersucht und nach Zeitstufen (ahd./mhd./nhd.) unterschieden.
 
 Vorgehen:
-1. Grobe Recherche mit Anlegegung eines Literaturverzeichnises. Durch historischen Hintergrund werden auditive Aufnahmen als Material ausgeschlossen.
-2. Durchsuchen und Sortieren des gegebenen Materials durch elektronische Hilfsmittel bzw. manuell mit genauerer Angabe der betroffenen Seitenzahl.
-3. Strukturierte Datenbanken werden in Form von Tabellen, Stammbäumen und/oder Zahlenstahl erstellt und in gegebener Ordnerstruktur abgespeichert.
+1. Grobe Recherche mit Anlegegung einer Literaturdatenbank (JabRef). Durch historischen Hintergrund werden auditive Aufnahmen als Material ausgeschlossen.
+2. Durchsuchen und Sortieren des gegebenen Materials durch elektronische Hilfsmittel bzw. manuell mit genauerer Angabe der betroffenen Seitenzahl. Ergebnisse werden unter der Kommentarfunktion der Literaturdatenbank eingetragen.
+3. Strukturierte Datenbanken werden in Form von Tabellen, Stammbäumen und/oder Zahlenstahl erstellt und in gegebener Ordnerstruktur abgespeichert. Hierfür nutze ich LibreOffice Calc
 4. 

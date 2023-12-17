@@ -1,6 +1,7 @@
 # Projektdokumentation 
 
 ## Thema
+Historische Semantik am Beispiel des mhd. Begriffs "êre"
 
 ## Fragestellung
 Welche Kriterien spielen im Hinblick auf die Aussprache von Begriffen wie beispielsweise "China" und "Chemie" eine Rolle?

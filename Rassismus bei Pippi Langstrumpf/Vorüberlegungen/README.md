@@ -6,4 +6,4 @@
 
 - Welche Meinungen vertritt die Gesellschaft? 
 
-- Darf alte Literatur verwendet werden?
+- Darf alte Literatur verändert werden?

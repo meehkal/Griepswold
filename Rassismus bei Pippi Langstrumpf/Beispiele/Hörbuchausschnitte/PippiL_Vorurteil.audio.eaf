@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-12-18T14:42:50+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/lucyohlrich/Desktop/PippiL_Vorurteil.audio.m4a"
+            MIME_TYPE="unknown" RELATIVE_MEDIA_URL="./PippiL_Vorurteil.audio.m4a"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:186ee5af-4574-4b73-bab5-e8ca81df5efd</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">6</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="5130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="10040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15010"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="refT" TIER_ID="ref">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE> 1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE> 2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="orthT" PARENT_REF="ref" TIER_ID="orth">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Ich will euch was sagen, in Ägypten da schwindeln die Leute von morgens bis abends, um 7 Uhr früh fangen sie an.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Und dann lügen und lügen und lügen sie wie gedruckt, bis es dunkel wird und sie schlafen. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="orth" TIER_ID="ft-eng"/>
+    <TIER LINGUISTIC_TYPE_REF="wordT" PARENT_REF="orth" TIER_ID="word"/>
+    <TIER LINGUISTIC_TYPE_REF="split-type" TIER_ID="Und dann lügen und lügen und lügen sie wie gedruckt, bis es dunkel wird und sie schlafen. ">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="split-type" TIER_ID="Ich will euch was sagen, in Ägypten da schwindeln die Leute von morgens bis abends, um 7 Uhr früh fangen sie an.">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="wordT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="split-type" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

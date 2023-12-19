@@ -10,7 +10,7 @@ Mithilfe einer Umfrage, wollen wir diesen Fragen auf den Grund gehen.
 Dieses Projekt wird in Form von Gruppenarbeit durchgeführt.
 
 ## Teilnehmer ##
-- Lucy Ohlrich
-- Ida Köppe
-- Lara-Sophie Buske
+- lucyohlrich
+- Freitag11
+- lsbsk
 

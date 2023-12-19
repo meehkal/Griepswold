@@ -8,6 +8,7 @@ PROJEKTDOKUMENTATION
 
 19.12.2023 erste Auswertung und Aufnahme der Daten in tabellarischer Form, Entdeckung von Ungereimtheiten in den Daten- siehe Fehleranfälligkeit- daher sortieren von Daten- einmal gesamte Daten, einmal voraussichtlich valide Daten
 
+19.12.2023 Hochladen der gesammelten Daten aus der Umfrage 
 
 
 Fehleranfälligkeit:

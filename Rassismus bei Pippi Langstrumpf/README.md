@@ -5,7 +5,7 @@ Während der Forschung werden Textausschnitte neuerer und älterer Ausgaben, sow
 Ziel ist es, anhand des Beispiels herausfinden, ob diese Wortwahl die Kindheit beeinflusste und welche Auswirkungen es hat, die Originalversion umzuschreiben. 
 Hat man als Kind den Rassismus in Kinderliteratur wahrgenommen?
 Wie sind die - inzwischen meist erwachsenen - Personen, die diese Bücher gelesen haben, heute gegenüber Rassismus eingestellt?
-Mithilfe einer Umfrage, wollen wir diesen Fragen auf den Grund gehen. 
+Mithilfe einer Umfrage, wollen wir unter anderem diesen Fragen auf den Grund gehen. 
 
 
 ## Teilnehmer ##

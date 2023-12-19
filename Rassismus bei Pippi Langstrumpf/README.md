@@ -1,5 +1,5 @@
 # Projektidee #
-Dieses Projekt befasst sich mit der Forschungsfrage: Wie ist Rassismus in Kinderliteratur vertreten? 
+Dieses Projekt befasst sich mit der Forschungsfrage: Beeinflusste die Verwendung rassistischer Begriffe die Sprachentwicklung?
 Dabei werden wir insbesondere am Beispiel "Pippi Langstrumpf" von Astrid Lindgren arbeiten. 
 Während der Forschung werden Textausschnitte neuerer und älterer Ausgaben, sowie Hörbuchausschnitte dieser Kinderliteratur  miteinander verglichen.
 Ziel ist es, anhand des Beispiels herausfinden, ob diese Wortwahl die Kindheit beeinflusst hat und welche Auswirkungen es hat, die Originalversion umzuschreiben. 
@@ -23,3 +23,5 @@ Dieses Projekt wird in Form von Gruppenarbeit durchgeführt.
 - Veröffentlichungen
 - Vorüberlegungen
 - Übersetzungen
+
+

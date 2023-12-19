@@ -13,7 +13,7 @@ PROJEKTDOKUMENTATION
 
 17.11.2023 Eingrenzung der Jugendwörter, sowie Erstellung und Veröffentlichung einer Umfrage 
 
-19.12.2023 erste Auswertung und Aufnahme der Daten in tabellarischer Form, Entdeckung von Ungereimtheiten in den Daten- siehe Fehleranfälligkeit- daher sortieren von Daten- einmal gesamte Daten (Jugendwörter Auswertung Gesamt.csv), einmal voraussichtlich valide Daten (Jugendwörter Auswertung Auswahl.csv)
+19.12.2023 erste Auswertung und Aufnahme der Daten in tabellarischer Form, Entdeckung von Ungereimtheiten in den Daten- siehe Fehleranfälligkeit- daher sortieren von Daten- einmal gesamte Daten (Jugendwörter Auswertung Gesamt.csv), einmal voraussichtlich valide Daten (Jugendwörter Auswertung Auswahl.csv)- Rohdaten inkl. Metadaten
 
 19.12.2023 Hochladen der gesammelten Daten aus der Umfrage 
 

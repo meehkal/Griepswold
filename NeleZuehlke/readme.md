@@ -5,14 +5,17 @@ Thema: Niederdeutsch im Vergleich zum heutigen Standartdeutsch anhand eines Beis
 
 KORPUS DES PROJEKTS:
 
-Hausaufgaben
+Portfolio:
 
-Projekt
+Hausaufgaben:
 
-Literaturdatenbank (DeutscheLingustik.bib)
-
+Literaturdatenbank
 ELAN-Audiodatei
 
+Projekt:
+
+Literaturdatenbank
+ELAN-Audiodatei
 Beschreibung
 
 

@@ -17,6 +17,8 @@ PROJEKTDOKUMENTATION
 
 19.12.2023 Hochladen der gesammelten Daten aus der Umfrage 
 
+19.12.2023 Hinzufügen von Literaturverzeichnis (Dateiname: Literatur Jugendwörter.csv)
+
 
 Fehleranfälligkeit:
 - durch auswahl der Seite zur Veröffentlichung der  Umfrage, sind die Ergebnisse eher durch jüngere Personen geliefert worden

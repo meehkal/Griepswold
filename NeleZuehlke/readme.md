@@ -1,23 +1,23 @@
-Projektdokumentation von Nele Zühlke
-Thema: Niederdeutsch im Vergleich zum heutigen Standartdeutsch anhand eines Beispiels
+# Projektdokumentation von Nele Zühlke
+
+## Thema:
+Niederdeutsch im Vergleich zum heutigen Standartdeutsch anhand eines Beispiels
 
 
 
-KORPUS DES PROJEKTS:
+## KORPUS DES PROJEKTS
 
-Portfolio:
+## Portfolio
 
-Hausaufgaben:
+## Hausaufgaben
+- Literaturdatenbank
+- ELAN-Audiodatei
 
-Literaturdatenbank,
-ELAN-Audiodatei
-
-Projekt:
-
-Literaturdatenbank,
-ELAN-Audiodatei,
-Beschreibung
+## Projekt
+- Literaturdatenbank
+- ELAN-Audiodatei
+- Beschreibung
 
 
-BESCHREIBUNG DES PROJEKTS:
+## BESCHREIBUNG DES PROJEKTS:
 eine ausführliche Beschreibung befindet sich im Ordner "Beschreibung"

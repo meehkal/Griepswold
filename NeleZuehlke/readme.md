@@ -9,13 +9,13 @@ Portfolio:
 
 Hausaufgaben:
 
-Literaturdatenbank
+Literaturdatenbank,
 ELAN-Audiodatei
 
 Projekt:
 
-Literaturdatenbank
-ELAN-Audiodatei
+Literaturdatenbank,
+ELAN-Audiodatei,
 Beschreibung
 
 

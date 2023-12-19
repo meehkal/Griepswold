@@ -22,3 +22,4 @@ Dieses Projekt wird in Form von Gruppenarbeit durchgeführt.
 - Umfrage
 - Veröffentlichungen
 - Vorüberlegungen
+- Übersetzungen

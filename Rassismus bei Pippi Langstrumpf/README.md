@@ -19,4 +19,6 @@ Dieses Projekt wird in Form von Gruppenarbeit durchgeführt.
 - Beispiele
 - Literatur
 - Definitionen
-- 
+- Umfrage
+- Veröffentlichungen
+- Vorüberlegungen

@@ -1,4 +1,5 @@
 # Projektidee #
+
 Dieses Projekt befasst sich mit der Forschungsfrage: Beeinflusste die Verwendung rassistischer Begriffe die Sprachentwicklung?
 Dabei werden wir insbesondere am Beispiel "Pippi Langstrumpf" von Astrid Lindgren arbeiten. 
 Während der Forschung werden Textausschnitte neuerer und älterer Ausgaben, sowie Hörbuchausschnitte dieser Kinderliteratur  miteinander verglichen.
@@ -9,13 +10,13 @@ Mithilfe einer Umfrage, wollen wir unter anderem diesen Fragen auf den Grund geh
 
 
 ## Teilnehmer ##
-Dieses Projekt wird in Form von Gruppenarbeit durchgeführt.
 
 - lucyohlrich
 - Freitag11
 - lsbsk
 
 ## Unterordner ##
+
 - Beispiele
 - Literatur
 - Definitionen

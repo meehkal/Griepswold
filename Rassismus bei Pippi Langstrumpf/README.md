@@ -15,4 +15,8 @@ Dieses Projekt wird in Form von Gruppenarbeit durchgeführt.
 - Freitag11
 - lsbsk
 
-## Unterordnen ##
+## Unterordner ##
+- Beispiele
+- Literatur
+- Definitionen
+- 

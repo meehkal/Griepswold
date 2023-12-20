@@ -1,0 +1,451 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Book rdf:about="urn:isbn:978-3-476-04696-3%20978-3-476-04695-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stuttgart</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>J. B. Metzler Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lobin</foaf:surname>
+                        <foaf:givenName>Henning</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_25"/>
+        <link:link rdf:resource="#item_26"/>
+        <dc:title>Digital und vernetzt: das neue Bild der Sprache</dc:title>
+        <dcterms:abstract>Die digitale Verfügbarkeit großer Textmengen und ihre umfassende Vernetzung beeinflussen unseren Umgang mit Sprache und Geschriebenem. Die Möglichkeit, auf riesigen Textwellen zu surfen und endlos viele Texte immer verfügbar zu haben, verändert auch das Bild, das wir uns von Sprache generell machen. Dieser wissenschaftliche Essay beschreibt den Wandel der Sprachauffassung, der sich durch Digitalisierung und Vernetzung gerade vollzieht, und zeigt die Konsequenzen in Bildungsinstitutionen, Sprachpolitik und bis hinein in unseren Alltag: In der SMS-Kommunikation erhalten wir Formulierungsvorschläge oder wir sprechen mit einem künstlichen Gesprächspartner in unserem Smartphone. Auch die fortschreitende Kombination von Text mit Grafik, Bild und Video wird als weitere Triebkraft dieses Wandels thematisiert. Ein abschließendes Kapitel skizziert ein neues Bild der Sprache, das einer offenen, demokratischen und zunehmend vernetzten Gesellschaft entspricht</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Digital und vernetzt</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-476-04696-3 978-3-476-04695-6</dc:identifier>
+        <z:numPages>198</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_25">
+       <rdf:value>Ebook inside Literaturverzeichnis: Seite 177-188</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1166592618/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-20 17:39:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-476-04767-0%20978-3-476-04766-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin [Heidelberg]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>J.B. Metzler Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bahlo</foaf:surname>
+                        <foaf:givenName>Nils Uwe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Becker</foaf:surname>
+                        <foaf:givenName>Tabea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalkavan-Aydın</foaf:surname>
+                        <foaf:givenName>Zeynep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lotze</foaf:surname>
+                        <foaf:givenName>Netaya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marx</foaf:surname>
+                        <foaf:givenName>Konstanze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schwarz</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şimşek</foaf:surname>
+                        <foaf:givenName>Yazgül</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>Jugendsprache: eine Einführung</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Jugendsprache</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-476-04767-0 978-3-476-04766-3</dc:identifier>
+        <z:numPages>241</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_36">
+        <rdf:value>Auf dem Umschlag: Lehrbuch, mit Online-Material Literaturangaben</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1172618844/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-20 17:55:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-8385-4455-7%20978-3-8252-4455-2">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>utb Sprachwissenschaft</dc:title>
+                <dc:identifier>4455</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Narr Francke Attempto Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neuland</foaf:surname>
+                        <foaf:givenName>Eva</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Efing</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_59"/>
+        <link:link rdf:resource="#item_60"/>
+        <dc:title>Soziolinguistik der deutschen Sprache: eine Einführung</dc:title>
+        <dcterms:abstract>Genderlekt? Dialekt? Soziolekt? IBM Eine Einführung in die Vielfalt der deutschen Sprache. Dieser Band bietet einen Überblick über Geschichte, Theorien und Richtungen sowie Forschungsmethoden der Soziolinguistik der deutschen Sprache. Dabei werden zentrale soziale Faktoren (u.a. soziale und regionale Herkunft, Gender, Generation, soziale Gruppe) und Prozesse (v.a. Migration, Mehrsprachigkeit, Sprachwandel) in ihrem Einfluss auf den Sprachgebrauch im Deutschen, vor allem der Gegenwart, berücksichtigt. Auch subjektive Faktoren von Sprachbewertungen und Spracheinstellungen sowie die Einflüsse der Soziolinguistik auf Schule und Sprachunterricht werden einbezogen. Der Band ist genau auf ein zentrales Thema germanistischer Prüfungs- und Studienordnungen zugeschnitten und eignet sich hervorragend zur selbstständigen Erschliessung dieses spannenden Forschungsgebietes</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Soziolinguistik der deutschen Sprache</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:description>DOI: 10.36198/9783838544557</dc:description>
+        <dc:identifier>ISBN 978-3-8385-4455-7 978-3-8252-4455-2</dc:identifier>
+        <z:numPages>397</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_59">
+       <rdf:value>Literaturangaben</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1071103415/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-20 17:52:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.swr3.de/aktuell/whatsapp-facebook-so-beeinflussen-soziale-medien-die-deutsche-sprache-102.html">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>https://www.swr3.de/index.html</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Urschinger</foaf:surname>
+                        <foaf:givenName>Kira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Whatsapp, Facebook: So beeinflussen soziale Medien die deutsche Sprache</dc:title>
+        <dc:date>28.05.2019</dc:date>
+        <z:language>Deutsch</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.swr3.de/aktuell/whatsapp-facebook-so-beeinflussen-soziale-medien-die-deutsche-sprache-102.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-20</dcterms:dateSubmitted>
+        <dc:rights>SWR3</dc:rights>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-3-11-067988-5%20978-3-11-067886-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Jahrbuch / IDS Leibniz-Institut für Deutsche Sprache</dc:title>
+                <dc:identifier>2019</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>De Gruyter</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marx</foaf:surname>
+                        <foaf:givenName>Konstanze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lobin</foaf:surname>
+                        <foaf:givenName>Henning</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt</foaf:surname>
+                        <foaf:givenName>Axel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leibniz-Institut für Deutsche Sprache (IDS)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_80"/>
+        <link:link rdf:resource="#item_81"/>
+        <dc:title>Deutsch in Sozialen Medien: interaktiv - multimodal - vielfältig</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Deutsch in Sozialen Medien</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:description>Meeting Name: Jahrestagung des Instituts für Deutsche Sprache</dc:description>
+        <dc:identifier>ISBN 978-3-11-067988-5 978-3-11-067886-4</dc:identifier>
+        <z:numPages>378</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_80">
+        <rdf:value>&quot;Mit dem Thema seiner 55. Jahrestagung richtet das Leibniz-Institut für Deutsche Sprache (IDS) den ... . - Vorwort Literaturangaben Enthält 23 Beiträge</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_81">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1200289803/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-20 17:40:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-8394-6385-7%20978-3-8376-6385-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Literatur in der digitalen Gesellschaft</dc:title>
+                <dc:identifier>Band 3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bielefeld</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>transcript</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreuzmair</foaf:surname>
+                        <foaf:givenName>Elias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pflock</foaf:surname>
+                        <foaf:givenName>Magdalena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schumacher</foaf:surname>
+                        <foaf:givenName>Eckhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_83"/>
+        <dc:title>Feeds, Tweets &amp; Timelines - Schreibweisen der Gegenwart in Sozialen Medien</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-8394-6385-7 978-3-8376-6385-3</dc:identifier>
+        <z:numPages>262</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_83">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1256521124/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-20 17:40:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-11-028216-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Age of access? Grundfragen der informationsgesellschaft</dc:title>
+                <dc:identifier>Band 2</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin ; Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>DE GRUYTER SAUR</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marx</foaf:surname>
+                        <foaf:givenName>Konstanze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schwarz-Friesel</foaf:surname>
+                        <foaf:givenName>Monika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_91"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Communication</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Communication and technology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Language and the Internet</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mass media and language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sociolinguistics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Technological innovations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sprache und Kommunikation im technischen Zeitalter: Wieviel Internet (v)erträgt unsere Gesellschaft?</dc:title>
+        <dc:date>2013</dc:date>
+        <z:shortTitle>Sprache und Kommunikation im technischen Zeitalter</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>P96.L34 S59 2013</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-3-11-028216-0</dc:identifier>
+        <z:numPages>326</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_91">
+       <rdf:value>Includes bibliographical references</rdf:value>
+    </bib:Memo>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Literatursammlung Für Portfolio</dc:title>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-476-04696-3%20978-3-476-04695-6"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-476-04767-0%20978-3-476-04766-3"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-8385-4455-7%20978-3-8252-4455-2"/>
+        <dcterms:hasPart rdf:resource="https://www.swr3.de/aktuell/whatsapp-facebook-so-beeinflussen-soziale-medien-die-deutsche-sprache-102.html"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-11-067988-5%20978-3-11-067886-4"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-8394-6385-7%20978-3-8376-6385-3"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-11-028216-0"/>
+    </z:Collection>
+</rdf:RDF>

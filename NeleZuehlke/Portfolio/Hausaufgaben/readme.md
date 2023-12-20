@@ -1,1 +1,1 @@
-Die Literaturdatenbank ist die Literaturdatenbank für die Hausaufgabe. 
+Die Literaturdatenbank ist die Literaturdatenbank für die Hausaufgabe. Im Gegensatz zu der anderen Literaturdatenbank im Ordner "Projekt" beinhaltet diese noch 21  Literatureinträge und es fehlen noch die "keywords".

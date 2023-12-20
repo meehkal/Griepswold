@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="SelectionEndTime-TaS">
+        <Long>0</Long>
+    </pref>
+    <pref key="TimeScaleBeginTime-TaS">
+        <Long>0</Long>
+    </pref>
+    <pref key="FrameSize-TaS">
+        <Object class="java.awt.Dimension">1094,713</Object>
+    </pref>
+    <pref key="FrameLocation-TaS">
+        <Object class="java.awt.Point">110,116</Object>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>transcript</String>
+    </pref>
+    <pref key="MediaTime-TaS">
+        <Long>995</Long>
+    </pref>
+    <pref key="TurnsAndSceneMode.View.FontSize">
+        <Int>18</Int>
+    </pref>
+    <pref key="TurnsAndSceneMode.VertSplit.Location">
+        <Float>0.784466</Float>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="transcript">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+    </prefGroup>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>400.0</Float>
+    </pref>
+    <pref key="TurnsAndSceneMode.ContinuousPlayMode">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="SelectionBeginTime-TaS">
+        <Long>0</Long>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>200</Int>
+    </pref>
+</preferences>

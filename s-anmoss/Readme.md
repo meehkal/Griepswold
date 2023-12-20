@@ -12,4 +12,4 @@ Beispieldaten
 
 
 
-! Die Datein wurden nochmal in den main ordner verschoben, da ich ausversehen ein eigenen ´Branch´ erstellt habe und dort die Aufgaben hinterlegt hatte. Die Aufgaben sowie das Projekt sind jetzt auch im Main Ordner zu finden.
+! Die Datein wurden nochmal in den Main Ordner verschoben, da ich ausversehen einen eigenen ´Branch´ erstellt habe und dort die Aufgaben hinterlegt hatte. Die Aufgaben sowie das Projekt sind jetzt auch im Main Ordner zu finden.

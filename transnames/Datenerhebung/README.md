@@ -1,9 +1,4 @@
 # Datenerhebung
-
-### Unterordner:
-- Vorüberlegungen
-  - ethisch
-  - inhaltlich
-
-### Umfrage:
-Die Umfrage wurde mit dem universitätsinternen Tool 'evasys' erstellt und kann unter Fragebogen_leer.pdf eingesehen werden.
+Dieser Ordner enthält:
+- einen leeren Fragebogen im .pdf Format (mit evasys erstellt)
+- Primärdaten der Umfrage im .csv Format

@@ -1,4 +1,4 @@
-ref,name,namen_position,year_of_birth,year_of_name_change,männlich,weiblich,transmaskulin,transfeminin,nicht-binär,agender,genderfluid,anders_gender,anders_genderidentity_specified,zeitstempel,datensatz_ursprung
+ref,name,namen_position,year_of_birth,year_of_name_change,mÃ¤nnlich,weiblich,transmaskulin,transfeminin,nicht-binÃ¤r,agender,genderfluid,anders_gender,anders_genderidentity_specified,zeitstempel,datensatz_ursprung
 1,Jona,1,2002,2022,0,0,1,0,0,0,0,0, ,01.12.2023 um 11:00:20,O
 2,Robin,2,2002,2022,0,0,1,0,0,0,0,0, ,01.12.2023 um 11:00:52,O
 3,Finn,1,1999,2020,0,0,1,0,1,0,0,0, ,01.12.2023 um 21:27:46,M

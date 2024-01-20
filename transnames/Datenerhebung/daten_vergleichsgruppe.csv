@@ -1,7 +1,7 @@
-ref;name;year_of_birth
-1;Maximilian;2002
-2;Noah;2022
-3;Leon;2020
-4;Matteo;2023
-5;Lukas;1999
-6;Alexander;2000
+ref,name,year_of_birth
+1,Maximilian,2002
+2,Noah,2022
+3,Leon,2020
+4,Matteo,2023
+5,Lukas,1999
+6,Alexander,2000

@@ -97,8 +97,6 @@ bitten, den Link zur Umfrage zu teilen.
 
 # Analyse
 
-Zuerst erfolgt …
-
 Mithilfe folgenden Codes (geschrieben in R) ergeben sich diese beiden
 Tabelle mit den sekundären Daten.
 
@@ -173,7 +171,7 @@ knitr::kable(vergleichsgruppe_analysed, )
 |   6 | alexander  |          2000 |                 9 | a            | r           |  0.4444444 |           1 |          1 |             0 |            1 |                1 |
 
 Mit den wenigen Daten sind selbstverständlich keine aussagekräftigen
-Graphiken möglich. Deshalb sind folgende Graphiken nur beispielhaft.
+Graphiken möglich. Deshalb sind folgende Graphiken nur beispielhaft. Falls die Graphiken hier in der .md Datei nicht angezeigt werden sollten, findet sich ein PDF-Dokument mit diesem Abschnitt im Unterordner *Datenauswertung*.
 
 Folgende Graphiken sollen veranschaulichen, ob es bei den Namen von
 trans\* Personen verhältnismäßig eine Präferenz bzgl. verschiedener

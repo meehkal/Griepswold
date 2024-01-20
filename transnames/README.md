@@ -8,12 +8,12 @@ Exemplarisches Projekt zu selbstgewälten Namen von Transpersonen. Damit sollen 
 - Trends bei Namenswahl
 - Vergleich mit Babynamen
 
-## Unterordner:
-- Literaturdatenbank
+## Inhalte:
 - Portfolio in schriftlicher Ausfertigung
+### Unterordner
+- Literaturdatenbank
 - Datenerhebung
   - Umfragebogen
   - Primärdaten
 - Datenauswertung
-  - Datenanalyse (Code in R)
   - Grafiken
